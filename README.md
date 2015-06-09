@@ -6,6 +6,5 @@
 添加歌曲到歌单列表操作</br>![image](https://github.com/wangxiaoboATxidian/pic/raw/master/pic/Pd.PNG)</br>
 听歌时序图</br>![image](https://github.com/wangxiaoboATxidian/pic/raw/master/pic/Pe.PNG)</br>
 用户视图的导航图</br>![image](https://github.com/wangxiaoboATxidian/pic/raw/master/pic/Pf.PNG)</br>
-
 主页面的简单展示图</br>![image](https://github.com/wangxiaoboATxidian/pic/raw/master/pic/Ph.PNG)</br>
 </html>
